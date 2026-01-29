@@ -1,0 +1,2 @@
+# DocVarLang
+DocVarLang是一种易用的编程语言，结合了变量语义描述与科学计算能力
