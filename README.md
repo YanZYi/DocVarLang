@@ -25,7 +25,7 @@ pip install numpy
 2. **运行解释器**：
 
 ```
-python docvarlang_interpreter.py
+python docvarlang.py
 ```
 
 3. **交互式示例**：
@@ -110,7 +110,7 @@ desc b  # 输出："当前斐波那契值（55）"
 
 - **提交 Issue**：GitHub Issues
 - **代码贡献**：欢迎提交 PR，请遵循 贡献指南。
-- **联系方式**：XXX（邮箱/社交媒体）
+- **联系方式**：yanzymail@qq.com（邮箱/社交媒体）
 
 ## **六、许可证**
 
